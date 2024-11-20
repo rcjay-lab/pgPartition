@@ -1,4 +1,4 @@
-Refer to article published in Medium for more details. 
+Refer to article published in Medium for more details. - https://medium.com/@rcjay.work/postgres-automated-data-pruning-43a9f5e672ba
 
 To create new partitions (future & current), use below call statement in postgres
 call xxba_allocate_partition("Schema Name", "Table Name", "Count of Future Partitions to be created") ; 
